@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Lucas Mannell]]></title>
+  <link href="http://lucasmannell.github.io//github/atom.xml" rel="self"/>
+  <link href="http://lucasmannell.github.io//github/"/>
+  <updated>2014-07-14T00:02:56-03:00</updated>
+  <id>http://lucasmannell.github.io//github/</id>
+  <author>
+    <name><![CDATA[Lucas]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
