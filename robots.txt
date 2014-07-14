@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lucasmannell.github.io//github/sitemap.xml 
+Sitemap: http://lucasmannell.github.io/sitemap.xml 
